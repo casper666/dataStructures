@@ -9,7 +9,7 @@ public class HashTable_List{
     }
 
     public void put(int key){
-        
+
     }
 
 }
