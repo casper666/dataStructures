@@ -12,4 +12,8 @@ public class HashTable_List{
 
     }
 
+    public int get(int key){
+        return key;
+    }
+
 }
