@@ -6,6 +6,10 @@ public class HashTable_List{
 
     HashTable_List(int size){
         this.size = size;
-        array = new List<Integer>[size];
     }
+
+    public void put(int key){
+        
+    }
+
 }
